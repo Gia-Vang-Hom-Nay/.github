@@ -1,6 +1,9 @@
 ## Hướng dẫn về Thị trường Kim loại Quý
 
 
+![ Hướng dẫn về Thị trường Kim loại Quý](https://github.com/user-attachments/assets/7b8602bd-659f-4b70-973f-a0757107e60a)
+
+
 
 ### 1. **Giới thiệu về Thị trường Kim loại Quý**
 
