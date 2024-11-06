@@ -7,7 +7,7 @@
 
 ### 1. **Giới thiệu về Thị trường Kim loại Quý**
 
-Thị trường kim loại quý là nơi giao dịch các kim loại có giá trị cao, bao gồm vàng, bạc, bạch kim và palladium. Những kim loại này được ưa chuộng vì tính khan hiếm và giá trị trong nhiều ngành công nghiệp, đặc biệt là trang sức và điện tử, và được xem là tài sản lưu trữ giá trị trong dài hạn. 
+Thị trường kim loại quý là nơi [giao dịch](https://github.com/orgs/Gia-Vang-Hom-Nay/discussions) các kim loại có giá trị cao, bao gồm vàng, bạc, bạch kim và palladium. Những kim loại này được ưa chuộng vì tính khan hiếm và giá trị trong nhiều ngành công nghiệp, đặc biệt là trang sức và điện tử, và được xem là tài sản lưu trữ giá trị trong dài hạn. 
 
 ### 2. **Các Loại Kim Loại Quý Chính**
 
